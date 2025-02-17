@@ -1,0 +1,18 @@
+p { 
+    width: 500px;
+    border: 1px solid black;
+    color: red
+}
+button {
+    background-image: linear-gradient(to right, #ffffff, #a82424);
+    border-radius: 10px;
+    box-shadow: 0 9px #999;
+    padding: 15px 32px;
+    font-size: 16px;
+  }
+  
+  button:hover {
+    background-color: #3e8e41;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
