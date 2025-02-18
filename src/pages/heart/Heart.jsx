@@ -10,6 +10,7 @@ const Heart = () => {
     <>
         <div>
         <h1>Enfermedades del Corazon</h1>
+        <h1>Enfermedades del Corazao</h1>
         <p>{userData?.displayName}</p>
         <Outlet/>
         </div>
