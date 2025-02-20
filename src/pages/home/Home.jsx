@@ -19,7 +19,7 @@ const Home = () => {
     return (
     <div className="home">
         <h1>Inicio</h1>
-        <button onClick={handleClick}>Ver mas enfermedades</button>
+        <button onClick={handleClick}>EOOOOASADASA</button>
         </div>
     );
 };
