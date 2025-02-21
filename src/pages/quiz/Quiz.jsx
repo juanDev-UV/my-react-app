@@ -12,7 +12,7 @@ const Quiz = () => {
 
     return (
     <div>
-        <h1>Quiz</h1>
+        <h1>Examen</h1>
         <span>Progreso del quiz: {quiz.percentageQuizCompleted} % </span>
         <button onClick={handleQuizNext}>Siguiente</button>
     </div>
